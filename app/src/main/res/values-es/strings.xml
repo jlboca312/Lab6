@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab6</string>
+    <string-array name="colors_array">
+        <item>Gris Claro</item>
+        <item>Rojo</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Cian</item>
+    </string-array>
+</resources>

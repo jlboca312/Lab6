@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab6</string>
+    <string-array name="colors_array">
+        <item>lightGray</item>
+        <item>Red</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Cyan</item>
+    </string-array>
+
+</resources>
+
